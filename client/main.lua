@@ -1,6 +1,6 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 local uiOpen = false
-local currentRegister   = 0
+local currentRegister = 0
 local currentSafe = 0
 local copsCalled = false
 local CurrentCops = 0
